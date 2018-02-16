@@ -1,8 +1,11 @@
 # Automated_car_park
 
 *****License Plate Recognition*****
+
 *****Vehicle tracking*****
+
 *****Parking violation identification and empty parking slot detection*****
+
 *****Deep Learning*****
 
 
